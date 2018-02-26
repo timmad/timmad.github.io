@@ -38,11 +38,9 @@ build/Release
 node_modules/
 jspm_packages/
 src/
-assets/
 package.json
 package-lock.json
 webpack.config.js
-index.html
 
 # Typescript v1 declaration files
 typings/
